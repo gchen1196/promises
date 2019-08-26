@@ -1,2 +1,6 @@
 # promises
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+Project on using promises. Pair program with partner in span of 2 days. 
+
+## tech used
+- bluebird
+- fs
